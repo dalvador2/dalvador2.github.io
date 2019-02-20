@@ -12,3 +12,7 @@ html,body{
   margin: 0;
   background-color: #4169e1;
 }
+#outlier{
+  width: 80%;
+  align: center;
+}
