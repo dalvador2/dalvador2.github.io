@@ -2,3 +2,11 @@ p{
   font: "Times New Roman";
   font-size: 12px;
 }
+h1{
+  align: center;
+  font: "Times new roman";
+  font-size: 50px;
+}
+background{
+  color: #4169e1;
+}
