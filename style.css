@@ -16,3 +16,6 @@ html,body{
   width: 75%;
   margin: 0 auto;
 }
+#navbar{
+  background: #0000ff;
+}
