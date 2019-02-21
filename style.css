@@ -17,12 +17,12 @@ html,body{
   margin: 0 auto;
 }
 .navbar{
-  background-color: #0000ff;
+  background-color: #000000;
   overflow: hidden;
 }
 .navbar a{
   float: left;
-  color: #000000;
+  color: #0000ff;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
