@@ -16,6 +16,21 @@ html,body{
   width: 75%;
   margin: 0 auto;
 }
-#navbar{
+.navbar{
   background: #0000ff;
+  overflow: hidden;
+}
+.navbar a{
+  float: left;
+  color: #000000;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.navbar a.hover{
+  background-color: #0000dd;
+}
+.navbar a.active{
+  background-color: #000000;
 }
