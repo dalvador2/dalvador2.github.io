@@ -29,10 +29,10 @@ html,body{
   font-size: 17px;
 }
 .navbar a:hover{
-  background-color: #ddd;
+  background-color: #0000c0;
   color: black;
 }
 .navbar a.active{
-  background-color: #0000f0;
+  background-color: #0000a0;
   color: white;
 }
