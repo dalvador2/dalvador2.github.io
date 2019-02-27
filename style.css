@@ -17,22 +17,8 @@ html,body{
   margin: 0 auto;
 }
 .navbar{
-  background-color: #0000f0;
-  overflow: hidden;
+  display: flex;
 }
-.navbar a{
-  float: left;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
-}
-.navbar a:hover{
-  background-color: #0000c0;
-  color: black;
-}
-.navbar a.active{
-  background-color: #0000a0;
-  color: white;
+.item{
+  background-color: #0000ff;
 }
